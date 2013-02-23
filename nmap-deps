@@ -1,0 +1,45 @@
+libgtk2.0-dev:
+  Installed: (none)
+  Candidate: 2.24.10-0ubuntu6
+  Version table:
+     2.24.10-0ubuntu6 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+flex:
+  Installed: (none)
+  Candidate: 2.5.35-10ubuntu3
+  Version table:
+     2.5.35-10ubuntu3 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+bison:
+  Installed: (none)
+  Candidate: 1:2.5.dfsg-2.1
+  Version table:
+     1:2.5.dfsg-2.1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libssl-dev:
+  Installed: (none)
+  Candidate: 1.0.1-4ubuntu5.6
+  Version table:
+     1.0.1-4ubuntu5.6 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise-security/main amd64 Packages
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise-updates/main amd64 Packages
+     1.0.1-4ubuntu3 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libpcap0.8-dev:
+  Installed: (none)
+  Candidate: 1.1.1-10
+  Version table:
+     1.1.1-10 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libpcre3-dev:
+  Installed: (none)
+  Candidate: 8.12-4
+  Version table:
+     8.12-4 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+python-all-dev:
+  Installed: (none)
+  Candidate: 2.7.3-0ubuntu2
+  Version table:
+     2.7.3-0ubuntu2 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
