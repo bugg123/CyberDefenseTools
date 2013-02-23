@@ -1,0 +1,18 @@
+libnfnetlink-dev:
+  Installed: (none)
+  Candidate: 1.0.0-1
+  Version table:
+     1.0.0-1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+linuxdoc-tools:
+  Installed: (none)
+  Candidate: 0.9.67ubuntu1
+  Version table:
+     0.9.67ubuntu1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libtool:
+  Installed: (none)
+  Candidate: 2.4.2-1ubuntu1
+  Version table:
+     2.4.2-1ubuntu1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
