@@ -1,0 +1,30 @@
+flex:
+  Installed: (none)
+  Candidate: 2.5.35-10ubuntu3
+  Version table:
+     2.5.35-10ubuntu3 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+po4a:
+  Installed: (none)
+  Candidate: 0.41-1ubuntu1
+  Version table:
+     0.41-1ubuntu1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libbz2-dev:
+  Installed: (none)
+  Candidate: 1.0.6-1
+  Version table:
+     1.0.6-1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libselinux1-dev:
+  Installed: (none)
+  Candidate: 2.1.0-4.1ubuntu1
+  Version table:
+     2.1.0-4.1ubuntu1 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
+libncursesw5-dev:
+  Installed: (none)
+  Candidate: 5.9-4
+  Version table:
+     5.9-4 0
+        500 http://mirror.lcsee.wvu.edu/ubuntu/ precise/main amd64 Packages
